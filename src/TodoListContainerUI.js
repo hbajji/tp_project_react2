@@ -22,7 +22,6 @@ export default class TodoListContainerUI extends Component {
               <a href="#Delete" onClick={e => {
                 e.preventDefault();
                 this.props.onDeleteTodo(index)
-
               }}
                className="zmdi zmdi-delete"> </a>
             </p>
