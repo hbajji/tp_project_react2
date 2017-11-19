@@ -1,7 +1,7 @@
 {
   "name": "todo",
   "version": "0.1.0",
-  "homepage": "https://hbajji.github.io/todo",
+  "homepage": "https://hbajji.github.io/tp_project_react2",
   "private": true,
   "dependencies": {
     "gh-pages": "^1.1.0",
