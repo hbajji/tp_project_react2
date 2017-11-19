@@ -1,12 +1,5 @@
 ## TO DO LIST TP React
 
-<div style="text-align:center">
-![home](home.png)
-</div>
-
-
-### Sass files
-
 ```
 git clone https://github.com/hbajji/tp_project_react2.git
 cd tp_project_react2
